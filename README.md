@@ -22,6 +22,6 @@ wpeutil reboot
 
 This should delete it automatically if not dm me.
 
-If you don't trust this I can send the files manually for you to setup using WinPE / ADK, It's just the startup file and a bat file.
+If you don't trust this I've posted the files manually for you to setup using WinPE / ADK, It's just the startup file and a bat file.
 
 Contact x.com/_ln
