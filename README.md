@@ -24,4 +24,4 @@ This should delete it automatically if not dm me.
 
 If you don't trust this I can send the files manually for you to setup using WinPE / ADK, It's just the startup file and a bat file.
 
-Contact x.com/_ln x.com/w_sted
+Contact x.com/_ln
