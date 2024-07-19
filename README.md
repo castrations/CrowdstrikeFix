@@ -1,7 +1,9 @@
 # CrowdstrikeFix
 Crowdstrike C-00000291*.sys Fix
 
-FIles are "too big" so heres the **DOWNLOAD** https://drive.google.com/drive/folders/1cxCT1eRfwOsmkEOaq6_IZGaPBUOh8fYs?usp=sharing
+FIles are "too big" so heres the full [DOWNLOAD](https://drive.google.com/drive/folders/1cxCT1eRfwOsmkEOaq6_IZGaPBUOh8fYs?usp=sharing) for the bootable usb which is already setup.
+
+i've included the files so you can manually mount WinPE and add these to the sys32 directory.
 
 Place on USB and boot to WinPE
 Execute the startnet.cmd script
