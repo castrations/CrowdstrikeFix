@@ -1,6 +1,8 @@
 # CrowdstrikeFix
 Crowdstrike C-00000291*.sys Fix
 
+FIles are "too big" so heres the **DOWNLOAD** https://drive.google.com/drive/folders/1cxCT1eRfwOsmkEOaq6_IZGaPBUOh8fYs?usp=sharing
+
 Place on USB and boot to WinPE
 Execute the startnet.cmd script
 It'll run a bat file which is 
